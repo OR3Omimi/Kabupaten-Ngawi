@@ -407,7 +407,7 @@
 		"tradeRequest": "I present you this trade offer.",
 
 		"outerColor": [47, 39, 00],
-		"innerColor": [67, 186, 0],
+		"innerColor": [67, 186, 08],
 		"uniqueName": "Cradle of Civilization",
 		"uniqueText": "All land units move twice as fast on tiles next to rivers. +2 [Science] in Capital",
 		"uniques": ["[+2 Science] [in capital]","[Land] units gain the [Cradle of Civilizations] promotion"],
