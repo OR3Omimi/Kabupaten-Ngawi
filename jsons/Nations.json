@@ -378,4 +378,42 @@
 		"uniques": ["[+1 Food] from every [Horses]","Starts with [Archery]"],
 		"cities": ["Gelonus","Solokha","Aimonov","Tanais","Neapolis","Kalermes","Maikop","Tyras","Kul Oba","Olbia","Kerch","Mologeni","Bosporus","Chersonesos","Syebi","Phanogoria","Aorsi","Massagetae","Qabala"]
 	},
+	
+	{
+		"name": "Kabupaten Ngawi",
+		"leaderName": "782",
+		"adjective": ["Sumerian"],
+		"startBias": ["Flood plains"],
+		"preferredVictoryType": "n",
+		
+		"startIntroPart1": "Blessings of the heaven be upon you, oh mighty Gilgamesh, the legendary god-king of the Sumer nation. The stories of your life amaze the world to this day. After your death, the gods welcomed you as one of their kind. ",
+		"startIntroPart2": "O great Gilgamesh, builder of the Sumer might, your people seek your guidance! Will you descend from the heavens to astonish the world with your incredible deeds once again? Will you build a civilization that will stand the test of time? ",
+		
+		"declaringWar": "That's enough, prepare to be smashed into the dust!",
+		"attacked": "You dare to attack a demigod? You will regret this sooner than you think!",
+		"defeated": "Defeat. A mere mortal emerged victorious. Can't wait to see how long you will last. Even demigods aren't invicible.",
+		"introduction": "I am Gilgamesh, a demigod who descended to Earth to lead the mighty city of Uruk. Let there be peace among us!",
+		
+		"neutralHello": "Be blessed, friend.",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I gladly accept."],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": "Just speak, don't waste my time!",
+		"hateNo": ["Are you joking?","Are you sure?"],
+		"hateYes": ["I can accept.","Fine.","Let it be."],
+		
+		"afterPeace": "Maybe we should celebrate the end of war?",
+		"tradeRequest": "I present you this trade offer.",
+
+		"outerColor": [47, 39, 00],
+		"innerColor": [67, 186, 0],
+		"uniqueName": "Cradle of Civilization",
+		"uniqueText": "All land units move twice as fast on tiles next to rivers. +2 [Science] in Capital",
+		"uniques": ["[+2 Science] [in capital]","[Land] units gain the [Cradle of Civilizations] promotion"],
+		"cities": ["Uruk","Eridu","Kish","Lagash","Nibru","Ur","Bad-Tibira","Zimbir","Shuruppak","Umma",
+			"Larsa","Isin","Girsu","Adab","Larak","Abu Salabikh","Akshak","Hamazi","Nina","Kutha",
+			"Marad","Zabalam","Kisurra","Pazurish-Dagan","Kutallu","Kesh","Apisada","Kisiga","Enegi","Ki-an",
+			"Aratta","Kutu","Der"]
+	},
 ]
